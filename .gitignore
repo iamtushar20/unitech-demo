@@ -1,0 +1,29 @@
+# ==================
+# Python / Flask
+# ==================
+backend/venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+instance/
+.env
+.DS_Store
+
+# ==================
+# Node / Vue (frontend)
+# ==================
+frontend/my-vue-app/node_modules/
+frontend/my-vue-app/dist/
+frontend/my-vue-app/.env
+npm-debug.log
+yarn-error.log
+
+# ==================
+# OS / Editor / Misc
+# ==================
+.vscode/
+.idea/
+*.log
